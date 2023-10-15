@@ -1,6 +1,6 @@
 import os 
 import FF
-FF.loging.()
+FF.loging()
 
 
 #𝗛𝗲𝘆 𝗠𝗼𝘁𝗵𝗲𝗿 𝗙𝘂𝗰𝗸𝗲𝗿 🤣
